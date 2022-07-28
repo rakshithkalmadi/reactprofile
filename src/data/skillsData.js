@@ -1,19 +1,8 @@
  export const skillsData = [
-    'HTML',
-    'JS',
-    'NodeJS',
-    'Docker',
-    'Javascript',
-    'CSS',
-    'React',
-    'Django',
-    'Python',
-    'Photoshop',
     'Azure',
     'MySQL',
     'Bootstrap',
     'Git',
-    'Ubuntu',
     'Canva',
     'Flutter',
     'Dart',
@@ -24,7 +13,16 @@
     'C#',
     'Bootstrap',
     'C',
-    
+    'HTML',
+    'Docker',
+    'Javascript',
+    'CSS',
+    'React',
+    'Django',
+    'Python',
+    'Photoshop',
+
+
 
 ]
 
